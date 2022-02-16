@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saikrishna</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Product Designer & Frontend developer from India</h3>
 
 <p align="left"> <a href="https://twitter.com/vanneldasx" target="blank"><img src="https://img.shields.io/twitter/follow/vanneldasx?logo=twitter&style=for-the-badge" alt="vanneldasx" /></a> </p>
 
