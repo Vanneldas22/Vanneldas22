@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/vanneldasx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vanneldasx" height="30" width="40" /></a>
+<a href="https://twitter.com/vannneldas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vanneldasx" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/saikrishnavanneldas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/saikrishnavanneldas/" height="30" width="40" /></a>
 <a href="https://dribbble.com/https://dribbble.com/vanneldas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/vanneldas" height="30" width="40" /></a>
 <a href="https://medium.com/@mistervanneldas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mistervanneldas" height="30" width="40" /></a>
