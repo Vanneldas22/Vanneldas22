@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/vannneldas" target="blank"><img src="https://img.shields.io/twitter/follow/vanneldasx?logo=twitter&style=for-the-badge" alt="vanneldasx" /></a> </p>
 
-- 🔭 I’m currently working on **Smartshop Application**
+- 🔭 I’m currently working on **worke.io**
 
 - 🌱 I’m currently learning **GSAP,THREEJS, WEBGL**
 
