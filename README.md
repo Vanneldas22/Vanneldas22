@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Saikrishna</h1>
-<h3 align="center">Product designer and frontend developer from India</h3>
+<h3 align="center"></h3>
 
-<p align="left"> <a href="https://twitter.com/vannneldas" target="blank"><img src="https://img.shields.io/twitter/follow/vannneldas?logo=twitter&style=for-the-badge" alt="vannneldas" /></a> </p>
+<p align="left"> <a href="https://twitter.com/vannneldas" target="blank"><img src="https://img.shields.io/twitter/follow/vannneldas?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [worke.io](https://worke.io/)
+- 🔭(https://worke.io/)
 
 - 🌱 I’m currently learning **React,**
 
